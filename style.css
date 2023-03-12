@@ -24,7 +24,7 @@ body {
 }
 
 #hour, #min, #sec {
-    font-family: "Share Tech Mono";
+    font-family: "FreeSans";
     font-weight: bold;
 }
 #hour, #min {
